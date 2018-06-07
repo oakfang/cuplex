@@ -1,0 +1,29 @@
+{
+  "name": "cuplix",
+  "version": "1.0.0",
+  "description": "Channel-based concurrency primitives",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oakfang/cuplix.git"
+  },
+  "keywords": [
+    "channel",
+    "concurrency",
+    "rx",
+    "tx",
+    "duplex"
+  ],
+  "author": "Alon Niv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oakfang/cuplix/issues"
+  },
+  "homepage": "https://github.com/oakfang/cuplix#readme",
+  "devDependencies": {
+    "nefarious": "^2.1.0"
+  }
+}
